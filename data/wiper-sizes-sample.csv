@@ -1,0 +1,501 @@
+year,make,model,trim,body_style,front_driver_in,front_passenger_in,rear_in,front_driver_mm,front_passenger_mm,rear_mm,rear_wiper,front_connector,connector_confidence,drive_side,market,url
+2025,Acura,Integra,,,24,18,,610,457,,unknown,Push-button,high,,,https://wiperindex.com/make/acura/integra/2025
+2023,Acura,MDX,,,26,20,16,660,508,406,yes,J-hook,high,,,https://wiperindex.com/make/acura/mdx/2023
+2024,Acura,MDX,,,26,20,16,660,508,406,yes,J-hook,high,,,https://wiperindex.com/make/acura/mdx/2024
+2025,Acura,MDX,,,26,20,16,660,508,406,yes,J-hook,high,,,https://wiperindex.com/make/acura/mdx/2025
+2023,Acura,RDX,,,26,18,12,660,457,305,yes,J-hook,high,,,https://wiperindex.com/make/acura/rdx/2023
+2024,Acura,RDX,,,26,18,12,660,457,305,yes,J-hook,high,,,https://wiperindex.com/make/acura/rdx/2024
+2025,Acura,RDX,,,26,18,12,660,457,305,yes,J-hook,high,,,https://wiperindex.com/make/acura/rdx/2025
+2025,Acura,TLX,,,26,20,,660,508,,unknown,J-hook,high,,,https://wiperindex.com/make/acura/tlx/2025
+2024,Acura,ZDX,,,26,18,11,660,457,279,yes,J-hook,high,,,https://wiperindex.com/make/acura/zdx/2024
+2025,Acura,ZDX,,,26,18,11,660,457,279,yes,J-hook,high,,,https://wiperindex.com/make/acura/zdx/2025
+2025,Alfa Romeo,Giulia,,,24,18,,610,457,,unknown,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/giulia/2025
+2019,Alfa Romeo,Giulietta,,,24,18,14,610,457,356,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/giulietta/2019
+2020,Alfa Romeo,Giulietta,,,24,18,14,610,457,356,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/giulietta/2020
+2021,Alfa Romeo,Giulietta,,,24,18,14,610,457,356,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/giulietta/2021
+2023,Alfa Romeo,Stelvio,,,26,18,13,660,457,330,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/stelvio/2023
+2024,Alfa Romeo,Stelvio,,,26,18,13,660,457,330,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/stelvio/2024
+2025,Alfa Romeo,Stelvio,,,26,18,13,660,457,330,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/stelvio/2025
+2023,Alfa Romeo,Tonale,,,26,20,14,660,508,356,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/tonale/2023
+2024,Alfa Romeo,Tonale,,,26,20,14,660,508,356,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/tonale/2024
+2025,Alfa Romeo,Tonale,,,26,20,14,660,508,356,yes,Push-button,high,,,https://wiperindex.com/make/alfa-romeo/tonale/2025
+2025,Audi,A4 Quattro,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/a4-quattro/2025
+2025,Audi,A4 allroad,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/a4-allroad/2025
+2025,Audi,A6 Quattro,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/a6-quattro/2025
+2025,Audi,A6 allroad,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/a6-allroad/2025
+2025,Audi,Q3,,,24,20,12,610,508,305,yes,Push-button,high,,,https://wiperindex.com/make/audi/q3/2025
+2025,Audi,Q5,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/q5/2025
+2025,Audi,Q5 PHEV,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/q5-phev/2025
+2025,Audi,Q5 Sportback,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/q5-sportback/2025
+2025,Audi,SQ5,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/sq5/2025
+2025,Audi,SQ5 Sportback,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/audi/sq5-sportback/2025
+2024,BMW,Alpina XB7,,,26,20,15,660,508,381,yes,Push-button,high,,,https://wiperindex.com/make/bmw/alpina-xb7/2024
+2025,BMW,Alpina XB7,,,26,20,15,660,508,381,yes,Push-button,high,,,https://wiperindex.com/make/bmw/alpina-xb7/2025
+2025,BMW,X1,,,26,16,12,660,406,305,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x1/2025
+2024,BMW,X2,,,24,19,12,610,483,305,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x2/2024
+2025,BMW,X2,,,24,19,12,610,483,305,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x2/2025
+2024,BMW,X5,,,26,20,13,660,508,330,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x5/2024
+2025,BMW,X5,,,26,20,13,660,508,330,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x5/2025
+2024,BMW,X6,,,26,20,13,660,508,330,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x6/2024
+2024,BMW,X7,,,26,20,15,660,508,381,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x7/2024
+2025,BMW,X7,,,26,20,15,660,508,381,yes,Push-button,high,,,https://wiperindex.com/make/bmw/x7/2025
+2022,Blue Bird,All American FE,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/all-american-fe/2022
+2023,Blue Bird,All American FE,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/all-american-fe/2023
+2024,Blue Bird,All American FE,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/all-american-fe/2024
+2023,Blue Bird,All American RE,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/all-american-re/2023
+2024,Blue Bird,All American RE,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/all-american-re/2024
+2022,Blue Bird,SHL All American,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/shl-all-american/2022
+2023,Blue Bird,SHL All American,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/blue-bird/shl-all-american/2023
+2023,Blue Bird,Vision School Bus,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/blue-bird/vision-school-bus/2023
+2024,Blue Bird,Vision School Bus,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/blue-bird/vision-school-bus/2024
+2025,Blue Bird,Vision School Bus,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/blue-bird/vision-school-bus/2025
+2019,Buick,Cascada,,,26,25,,660,635,,unknown,Push-button,high,,,https://wiperindex.com/make/buick/cascada/2019
+2009,Buick,Enclave,,,24,21,12,610,533,305,yes,Push-button,high,,,https://wiperindex.com/make/buick/enclave/2009
+2010,Buick,Enclave,,,24,21,12,610,533,305,yes,Push-button,high,,,https://wiperindex.com/make/buick/enclave/2010
+2011,Buick,Enclave,,,24,21,12,610,533,305,yes,Push-button,high,,,https://wiperindex.com/make/buick/enclave/2011
+2020,Buick,Encore,,,26,14,,660,356,,unknown,Push-button,high,,,https://wiperindex.com/make/buick/encore/2020
+2021,Buick,Encore,,,26,14,,660,356,,unknown,Push-button,high,,,https://wiperindex.com/make/buick/encore/2021
+2022,Buick,Encore,,,26,14,,660,356,,unknown,Push-button,high,,,https://wiperindex.com/make/buick/encore/2022
+2020,Buick,Encore GX,,,26,16,11,660,406,279,yes,Push-button,high,,,https://wiperindex.com/make/buick/encore-gx/2020
+2021,Buick,Encore GX,,,26,16,11,660,406,279,yes,Push-button,high,,,https://wiperindex.com/make/buick/encore-gx/2021
+2025,Buick,Encore GX,,,26,16,,660,406,,unknown,Push-button,high,,,https://wiperindex.com/make/buick/encore-gx/2025
+2023,Cadillac,Escalade,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/escalade/2023
+2024,Cadillac,Escalade,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/escalade/2024
+2025,Cadillac,Escalade,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/escalade/2025
+2023,Cadillac,Escalade ESV,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/escalade-esv/2023
+2024,Cadillac,Escalade ESV,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/escalade-esv/2024
+2025,Cadillac,Escalade ESV,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/escalade-esv/2025
+2013,Cadillac,Escalade EXT,,,22,22,12,559,559,305,yes,J-hook,high,,,https://wiperindex.com/make/cadillac/escalade-ext/2013
+2014,Cadillac,SRX,,,26,17,12,660,432,305,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/srx/2014
+2015,Cadillac,SRX,,,26,17,12,660,432,305,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/srx/2015
+2016,Cadillac,SRX,,,26,17,12,660,432,305,yes,Push-button,high,,,https://wiperindex.com/make/cadillac/srx/2016
+2022,Chevrolet,Bolt EUV,,,24,16,10,610,406,254,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/bolt-euv/2022
+2023,Chevrolet,Bolt EUV,,,24,16,10,610,406,254,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/bolt-euv/2023
+2023,Chevrolet,Bolt EV,,,26,26,11,660,660,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/bolt-ev/2023
+2023,Chevrolet,Groove,,,24,16,10,610,406,254,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/groove/2023
+2023,Chevrolet,Suburban,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/suburban/2023
+2024,Chevrolet,Suburban,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/suburban/2024
+2025,Chevrolet,Suburban,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/suburban/2025
+2023,Chevrolet,Tahoe,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/tahoe/2023
+2024,Chevrolet,Tahoe,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/tahoe/2024
+2025,Chevrolet,Tahoe,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/chevrolet/tahoe/2025
+2015,Chrysler,200,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/200/2015
+2016,Chrysler,200,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/200/2016
+2017,Chrysler,200,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/200/2017
+2008,Chrysler,Cirrus,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/cirrus/2008
+2009,Chrysler,Cirrus,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/cirrus/2009
+2010,Chrysler,Cirrus,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/cirrus/2010
+2025,Chrysler,Pacifica,,,26,20,14,660,508,356,yes,,,,,https://wiperindex.com/make/chrysler/pacifica/2025
+2008,Chrysler,Sebring,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/sebring/2008
+2009,Chrysler,Sebring,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/sebring/2009
+2010,Chrysler,Sebring,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/chrysler/sebring/2010
+2014,Dodge,Avenger,,,24,22,,610,559,,unknown,J-hook,high,,,https://wiperindex.com/make/dodge/avenger/2014
+2024,Dodge,Charger Daytona,,,24,18,,610,457,,unknown,Push-button,high,,,https://wiperindex.com/make/dodge/charger-daytona/2024
+2025,Dodge,Charger Daytona,,,24,18,,610,457,,unknown,Push-button,high,,,https://wiperindex.com/make/dodge/charger-daytona/2025
+2023,Dodge,Hornet,,,26,20,14,660,508,356,yes,Push-button,high,,,https://wiperindex.com/make/dodge/hornet/2023
+2024,Dodge,Hornet,,,26,20,14,660,508,356,yes,Push-button,high,,,https://wiperindex.com/make/dodge/hornet/2024
+2025,Dodge,Hornet,,,26,20,,660,508,,unknown,Push-button,high,,,https://wiperindex.com/make/dodge/hornet/2025
+2018,Dodge,Journey,,,24,19,12,610,483,305,yes,J-hook,high,,,https://wiperindex.com/make/dodge/journey/2018
+2019,Dodge,Journey,,,24,19,12,610,483,305,yes,J-hook,high,,,https://wiperindex.com/make/dodge/journey/2019
+2020,Dodge,Journey,,,24,19,12,610,483,305,yes,J-hook,high,,,https://wiperindex.com/make/dodge/journey/2020
+2020,Dodge,Neon,,,26,16,,660,406,,unknown,Push-button,high,,,https://wiperindex.com/make/dodge/neon/2020
+2007,Ferrari,F430,,,24,21,,610,533,,unknown,J-hook,high,,,https://wiperindex.com/make/ferrari/f430/2007
+2008,Ferrari,F430,,,24,21,,610,533,,unknown,J-hook,high,,,https://wiperindex.com/make/ferrari/f430/2008
+2009,Ferrari,F430,,,24,21,,610,533,,unknown,J-hook,high,,,https://wiperindex.com/make/ferrari/f430/2009
+2016,Ferrari,FF,,,28,17,17,711,432,432,yes,,,,,https://wiperindex.com/make/ferrari/ff/2016
+2018,Ferrari,GTC4Lusso,,,28,17,16,711,432,406,yes,,,,,https://wiperindex.com/make/ferrari/gtc4lusso/2018
+2019,Ferrari,GTC4Lusso,,,28,17,16,711,432,406,yes,,,,,https://wiperindex.com/make/ferrari/gtc4lusso/2019
+2020,Ferrari,GTC4Lusso,,,28,17,16,711,432,406,yes,,,,,https://wiperindex.com/make/ferrari/gtc4lusso/2020
+2018,Ferrari,GTC4Lusso T,,,28,17,16,711,432,406,yes,,,,,https://wiperindex.com/make/ferrari/gtc4lusso-t/2018
+2019,Ferrari,GTC4Lusso T,,,28,17,16,711,432,406,yes,,,,,https://wiperindex.com/make/ferrari/gtc4lusso-t/2019
+2020,Ferrari,GTC4Lusso T,,,28,17,16,711,432,406,yes,,,,,https://wiperindex.com/make/ferrari/gtc4lusso-t/2020
+2024,Fiat,500E,,,24,14,10,610,356,254,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500e/2024
+2025,Fiat,500E,,,24,14,10,610,356,254,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500e/2025
+2018,Fiat,500L,,,26,15,12,660,381,305,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500l/2018
+2019,Fiat,500L,,,26,15,12,660,381,305,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500l/2019
+2020,Fiat,500L,,,26,15,12,660,381,305,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500l/2020
+2021,Fiat,500X,,,26,14,12,660,356,305,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500x/2021
+2022,Fiat,500X,,,26,14,12,660,356,305,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500x/2022
+2023,Fiat,500X,,,26,14,12,660,356,305,yes,Push-button,high,,,https://wiperindex.com/make/fiat/500x/2023
+2023,Fiat,Argo,,,24,16,,610,406,,unknown,Push-button,high,,,https://wiperindex.com/make/fiat/argo/2023
+2024,Fiat,Argo,,,24,16,,610,406,,unknown,Push-button,high,,,https://wiperindex.com/make/fiat/argo/2024
+2022,Fleetwood,Bounder,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/bounder/2022
+2023,Fleetwood,Bounder,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/bounder/2023
+2022,Fleetwood,Flair,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/flair/2022
+2023,Fleetwood,Flair,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/flair/2023
+2022,Fleetwood,Fortis,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/fortis/2022
+2023,Fleetwood,Fortis,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/fortis/2023
+2022,Fleetwood,Irok,,,26,26,,660,660,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/irok/2022
+2023,Fleetwood,Irok,,,26,26,,660,660,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/irok/2023
+2023,Fleetwood,Pace Arrow,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/pace-arrow/2023
+2023,Fleetwood,Southwind,,,32,32,,813,813,,unknown,J-hook,high,,,https://wiperindex.com/make/fleetwood/southwind/2023
+2021,Ford,EcoSport,,,26,24,11,660,610,279,yes,Push-button,high,,,https://wiperindex.com/make/ford/ecosport/2021
+2022,Ford,EcoSport,,,26,24,11,660,610,279,yes,Push-button,high,,,https://wiperindex.com/make/ford/ecosport/2022
+2022,Ford,Expedition,,,22,22,11,559,559,279,yes,J-hook,high,,,https://wiperindex.com/make/ford/expedition/2022
+2023,Ford,Expedition,,,22,22,11,559,559,279,yes,J-hook,high,,,https://wiperindex.com/make/ford/expedition/2023
+2024,Ford,Expedition,,,22,22,11,559,559,279,yes,J-hook,high,,,https://wiperindex.com/make/ford/expedition/2024
+2022,Ford,Mustang Mach-E,,,24,20,11,610,508,279,yes,Push-button,high,,,https://wiperindex.com/make/ford/mustang-mach-e/2022
+2023,Ford,Mustang Mach-E,,,24,20,11,610,508,279,yes,Push-button,high,,,https://wiperindex.com/make/ford/mustang-mach-e/2023
+2024,Ford,Mustang Mach-E,,,24,20,11,610,508,279,yes,Push-button,high,,,https://wiperindex.com/make/ford/mustang-mach-e/2024
+2022,Ford,Transit Custom,,,28,28,14,711,711,356,yes,Push-button,high,,,https://wiperindex.com/make/ford/transit-custom/2022
+2023,Ford,Transit Custom,,,28,28,14,711,711,356,yes,Push-button,high,,,https://wiperindex.com/make/ford/transit-custom/2023
+2024,Freightliner,B2,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/b2/2024
+2024,Freightliner,M2,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/m2/2024
+2024,Freightliner,M2 106,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/m2-106/2024
+2025,Freightliner,M2 106,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/m2-106/2025
+2024,Freightliner,M2 112,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/m2-112/2024
+2025,Freightliner,M2 112,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/m2-112/2025
+2016,Freightliner,Sprinter 2500,,,26,24,15,660,610,381,yes,,,,,https://wiperindex.com/make/freightliner/sprinter-2500/2016
+2017,Freightliner,Sprinter 2500,,,26,24,15,660,610,381,yes,,,,,https://wiperindex.com/make/freightliner/sprinter-2500/2017
+2018,Freightliner,Sprinter 2500,,,26,24,15,660,610,381,yes,,,,,https://wiperindex.com/make/freightliner/sprinter-2500/2018
+2024,Freightliner,XB Straight Rail,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/freightliner/xb-straight-rail/2024
+2011,GMC,Acadia,,,24,21,10,610,533,254,yes,Push-button,high,,,https://wiperindex.com/make/gmc/acadia/2011
+2015,GMC,Terrain,,,24,17,13,610,432,330,yes,Push-button,high,,,https://wiperindex.com/make/gmc/terrain/2015
+2016,GMC,Terrain,,,24,17,13,610,432,330,yes,Push-button,high,,,https://wiperindex.com/make/gmc/terrain/2016
+2017,GMC,Terrain,,,24,17,13,610,432,330,yes,Push-button,high,,,https://wiperindex.com/make/gmc/terrain/2017
+2023,GMC,Yukon,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/gmc/yukon/2023
+2024,GMC,Yukon,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/gmc/yukon/2024
+2025,GMC,Yukon,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/gmc/yukon/2025
+2023,GMC,Yukon XL,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/gmc/yukon-xl/2023
+2024,GMC,Yukon XL,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/gmc/yukon-xl/2024
+2025,GMC,Yukon XL,,,22,22,11,559,559,279,yes,Push-button,high,,,https://wiperindex.com/make/gmc/yukon-xl/2025
+2022,Hino,198,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/198/2022
+2023,Hino,198,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/198/2023
+2022,Hino,258,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/258/2022
+2023,Hino,258,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/258/2023
+2022,Hino,268,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/268/2022
+2023,Hino,268,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/268/2023
+2022,Hino,300,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/hino/300/2022
+2023,Hino,338,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/338/2023
+2023,Hino,358,,,26,26,,660,660,,unknown,,,,,https://wiperindex.com/make/hino/358/2023
+2022,Hino,500,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/hino/500/2022
+2023,Honda,CR-V,,,24,19,10,610,483,254,yes,Push-button,high,,,https://wiperindex.com/make/honda/cr-v/2023
+2024,Honda,CR-V,,,24,19,10,610,483,254,yes,Push-button,high,,,https://wiperindex.com/make/honda/cr-v/2024
+2025,Honda,CR-V,,,24,18,10,610,457,254,yes,Push-button,high,,,https://wiperindex.com/make/honda/cr-v/2025
+2023,Honda,Civic,,,24,18,11,610,457,279,yes,Push-button,high,,,https://wiperindex.com/make/honda/civic/2023
+2024,Honda,Civic,,,24,18,11,610,457,279,yes,Push-button,high,,,https://wiperindex.com/make/honda/civic/2024
+2025,Honda,Civic,,,24,18,11,610,457,279,yes,Push-button,high,,,https://wiperindex.com/make/honda/civic/2025
+2024,Honda,Odyssey,,,26,22,16,660,559,406,yes,J-hook,high,,,https://wiperindex.com/make/honda/odyssey/2024
+2025,Honda,Odyssey,,,26,22,16,660,559,406,yes,J-hook,high,,,https://wiperindex.com/make/honda/odyssey/2025
+2024,Honda,Pilot,,,26,22,14,660,559,356,yes,J-hook,high,,,https://wiperindex.com/make/honda/pilot/2024
+2025,Honda,Pilot,,,26,22,14,660,559,356,yes,J-hook,high,,,https://wiperindex.com/make/honda/pilot/2025
+2024,Hyundai,Kona,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/hyundai/kona/2024
+2025,Hyundai,Kona,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/hyundai/kona/2025
+2024,Hyundai,Kona Electric,,,26,16,11,660,406,279,yes,,,,,https://wiperindex.com/make/hyundai/kona-electric/2024
+2025,Hyundai,Kona Electric,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/hyundai/kona-electric/2025
+2025,Hyundai,Palisade,,,26,20,12,660,508,305,yes,,,,,https://wiperindex.com/make/hyundai/palisade/2025
+2024,Hyundai,Venue,,,24,18,11,610,457,279,yes,,,,,https://wiperindex.com/make/hyundai/venue/2024
+2025,Hyundai,Venue,,,24,18,11,610,457,279,yes,,,,,https://wiperindex.com/make/hyundai/venue/2025
+2010,Hyundai,Veracruz,,,24,20,,610,508,,unknown,Push-button,high,,,https://wiperindex.com/make/hyundai/veracruz/2010
+2011,Hyundai,Veracruz,,,24,20,,610,508,,unknown,Push-button,high,,,https://wiperindex.com/make/hyundai/veracruz/2011
+2012,Hyundai,Veracruz,,,24,20,,610,508,,unknown,Push-button,high,,,https://wiperindex.com/make/hyundai/veracruz/2012
+2012,INFINITI,M35h,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/infiniti/m35h/2012
+2011,INFINITI,M37,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/infiniti/m37/2011
+2012,INFINITI,M37,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/infiniti/m37/2012
+2011,INFINITI,M56,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/infiniti/m56/2011
+2012,INFINITI,M56,,,26,19,,660,483,,unknown,J-hook,high,,,https://wiperindex.com/make/infiniti/m56/2012
+2025,INFINITI,QX50,,,26,18,12,660,457,305,yes,,,,,https://wiperindex.com/make/infiniti/qx50/2025
+2025,INFINITI,QX55,,,26,18,12,660,457,305,yes,,,,,https://wiperindex.com/make/infiniti/qx55/2025
+2023,INFINITI,QX60,,,26,19,12,660,483,305,yes,Push-button,high,,,https://wiperindex.com/make/infiniti/qx60/2023
+2024,INFINITI,QX60,,,26,19,12,660,483,305,yes,Push-button,high,,,https://wiperindex.com/make/infiniti/qx60/2024
+2025,INFINITI,QX60,,,26,19,12,660,483,305,yes,Push-button,high,,,https://wiperindex.com/make/infiniti/qx60/2025
+1990,International,3700,,,18,18,,457,457,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/3700/1990
+1991,International,3700,,,18,18,,457,457,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/3700/1991
+1992,International,3700,,,18,18,,457,457,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/3700/1992
+1987,International,3800,,,18,18,,457,457,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/3800/1987
+1990,International,3800,,,18,18,,457,457,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/3800/1990
+1991,International,3800,,,18,18,,457,457,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/3800/1991
+2023,International,CV515,,,22,22,,559,559,,unknown,Push-button,high,,,https://wiperindex.com/make/international/cv515/2023
+2024,International,CV515,,,22,22,,559,559,,unknown,Push-button,high,,,https://wiperindex.com/make/international/cv515/2024
+1979,International,Scout II,,,13,13,,330,330,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/scout-ii/1979
+1980,International,Scout II,,,13,13,,330,330,,unknown,Bayonet,high,,,https://wiperindex.com/make/international/scout-ii/1980
+2020,International Navistar,4300,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/4300/2020
+2021,International Navistar,4300,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/4300/2021
+2021,International Navistar,4400,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/4400/2021
+2021,International Navistar,DuraStar,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/durastar/2021
+2021,International Navistar,HV,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/hv/2021
+2021,International Navistar,HX,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/hx/2021
+2021,International Navistar,LT,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/lt/2021
+2021,International Navistar,LoneStar,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/lonestar/2021
+2021,International Navistar,MV,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/mv/2021
+2021,International Navistar,RH,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/international-navistar/rh/2021
+2006,Isuzu,Ascender,,,22,22,16,559,559,406,yes,,,,,https://wiperindex.com/make/isuzu/ascender/2006
+2007,Isuzu,Ascender,,,22,22,12,559,559,305,yes,,,,,https://wiperindex.com/make/isuzu/ascender/2007
+2008,Isuzu,Ascender,,,22,22,12,559,559,305,yes,,,,,https://wiperindex.com/make/isuzu/ascender/2008
+2004,Isuzu,Axiom,,,20,19,14,508,483,356,yes,,,,,https://wiperindex.com/make/isuzu/axiom/2004
+2013,Isuzu,Reach,,,28,28,,711,711,,unknown,J-hook,high,,,https://wiperindex.com/make/isuzu/reach/2013
+2014,Isuzu,Reach,,,28,28,,711,711,,unknown,J-hook,high,,,https://wiperindex.com/make/isuzu/reach/2014
+2015,Isuzu,Reach,,,28,28,,711,711,,unknown,J-hook,high,,,https://wiperindex.com/make/isuzu/reach/2015
+2003,Isuzu,Rodeo,,,19,19,13,483,483,330,yes,,,,,https://wiperindex.com/make/isuzu/rodeo/2003
+2004,Isuzu,Rodeo,,,19,19,13,483,483,330,yes,,,,,https://wiperindex.com/make/isuzu/rodeo/2004
+2003,Isuzu,Rodeo Sport,,,19,19,13,483,483,330,yes,,,,,https://wiperindex.com/make/isuzu/rodeo-sport/2003
+2023,Jaguar,F-Pace,,,26,19,13,660,483,330,yes,Push-button,high,,,https://wiperindex.com/make/jaguar/f-pace/2023
+2024,Jaguar,F-Pace,,,26,19,13,660,483,330,yes,Push-button,high,,,https://wiperindex.com/make/jaguar/f-pace/2024
+2025,Jaguar,F-Pace,,,26,19,13,660,483,330,yes,Push-button,high,,,https://wiperindex.com/make/jaguar/f-pace/2025
+2022,Jaguar,F-Type,,,22,21,,559,533,,unknown,J-hook,high,,,https://wiperindex.com/make/jaguar/f-type/2022
+2023,Jaguar,F-Type,,,22,21,,559,533,,unknown,J-hook,high,,,https://wiperindex.com/make/jaguar/f-type/2023
+2024,Jaguar,F-Type,,,22,21,,559,533,,unknown,J-hook,high,,,https://wiperindex.com/make/jaguar/f-type/2024
+2021,Jaguar,XE,,,26,17,,660,432,,unknown,Push-button,high,,,https://wiperindex.com/make/jaguar/xe/2021
+2019,Jaguar,XF,,,26,17,12,660,432,305,yes,Push-button,high,,,https://wiperindex.com/make/jaguar/xf/2019
+2020,Jaguar,XF,,,26,17,12,660,432,305,yes,Push-button,high,,,https://wiperindex.com/make/jaguar/xf/2020
+2021,Jaguar,XF,,,26,17,12,660,432,305,yes,Push-button,high,,,https://wiperindex.com/make/jaguar/xf/2021
+2024,Jeep,Compass,,,24,18,10,610,457,254,yes,J-hook,high,,,https://wiperindex.com/make/jeep/compass/2024
+2025,Jeep,Compass,,,24,18,10,610,457,254,yes,J-hook,high,,,https://wiperindex.com/make/jeep/compass/2025
+2024,Jeep,Grand Cherokee,,,24,24,12,610,610,305,yes,J-hook,high,,,https://wiperindex.com/make/jeep/grand-cherokee/2024
+2025,Jeep,Grand Cherokee,,,24,24,12,610,610,305,yes,J-hook,high,,,https://wiperindex.com/make/jeep/grand-cherokee/2025
+2025,Jeep,Grand Wagoneer,,,24,24,10,610,610,254,yes,Push-button,high,,,https://wiperindex.com/make/jeep/grand-wagoneer/2025
+2025,Jeep,Grand Wagoneer L,,,24,24,10,610,610,254,yes,Push-button,high,,,https://wiperindex.com/make/jeep/grand-wagoneer-l/2025
+2024,Jeep,Renegade,,,22,20,10,559,508,254,yes,Push-button,high,,,https://wiperindex.com/make/jeep/renegade/2024
+2025,Jeep,Wagoneer,,,24,24,10,610,610,254,yes,Push-button,high,,,https://wiperindex.com/make/jeep/wagoneer/2025
+2025,Jeep,Wagoneer L,,,24,24,10,610,610,254,yes,Push-button,high,,,https://wiperindex.com/make/jeep/wagoneer-l/2025
+2025,Jeep,Wrangler,,,16,16,12,406,406,305,yes,J-hook,high,,,https://wiperindex.com/make/jeep/wrangler/2025
+2024,Kenworth,K270,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/kenworth/k270/2024
+2024,Kenworth,K370,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/kenworth/k370/2024
+2023,Kenworth,T270,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/kenworth/t270/2023
+2023,Kenworth,T280,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/kenworth/t280/2023
+2024,Kenworth,T380,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/kenworth/t380/2024
+2024,Kenworth,T480,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/kenworth/t480/2024
+2024,Kenworth,T680,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/kenworth/t680/2024
+2024,Kenworth,T880,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/kenworth/t880/2024
+2024,Kenworth,W900,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/kenworth/w900/2024
+2024,Kenworth,W990,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/kenworth/w990/2024
+2024,Kia,Carnival,,,26,20,12,660,508,305,yes,,,,,https://wiperindex.com/make/kia/carnival/2024
+2024,Kia,Forte5,,,26,16,14,660,406,356,yes,,,,,https://wiperindex.com/make/kia/forte5/2024
+2025,Kia,Niro,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/kia/niro/2025
+2025,Kia,Niro EV,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/kia/niro-ev/2025
+2024,Kia,Seltos,,,24,18,12,610,457,305,yes,,,,,https://wiperindex.com/make/kia/seltos/2024
+2025,Kia,Seltos,,,24,18,12,610,457,305,yes,,,,,https://wiperindex.com/make/kia/seltos/2025
+2025,Kia,Sorento,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/kia/sorento/2025
+2025,Kia,Soul,,,24,20,11,610,508,279,yes,,,,,https://wiperindex.com/make/kia/soul/2025
+2025,Kia,Sportage,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/kia/sportage/2025
+2025,Kia,Telluride,,,26,18,12,660,457,305,yes,,,,,https://wiperindex.com/make/kia/telluride/2025
+2022,Lexus,NX250,,,26,16,12,660,406,305,yes,Push-button,high,,,https://wiperindex.com/make/lexus/nx250/2022
+2022,Lexus,NX350,,,26,16,12,660,406,305,yes,Push-button,high,,,https://wiperindex.com/make/lexus/nx350/2022
+2022,Lexus,NX350h,,,26,16,12,660,406,305,yes,Push-button,high,,,https://wiperindex.com/make/lexus/nx350h/2022
+2023,Lexus,RX350,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx350/2023
+2024,Lexus,RX350,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx350/2024
+2025,Lexus,RX350,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx350/2025
+2023,Lexus,RX350h,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx350h/2023
+2024,Lexus,RX350h,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx350h/2024
+2025,Lexus,RX350h,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx350h/2025
+2025,Lexus,RX500h,,,26,21,16,660,533,406,yes,Push-button,high,,,https://wiperindex.com/make/lexus/rx500h/2025
+2023,Lincoln,Aviator,,,26,21,,660,533,,unknown,Push-button,high,,,https://wiperindex.com/make/lincoln/aviator/2023
+2024,Lincoln,Aviator,,,26,21,,660,533,,unknown,Push-button,high,,,https://wiperindex.com/make/lincoln/aviator/2024
+2025,Lincoln,Aviator,,,26,21,,660,533,,unknown,Push-button,high,,,https://wiperindex.com/make/lincoln/aviator/2025
+2024,Lincoln,Corsair,,,26,18,11,660,457,279,yes,,,,,https://wiperindex.com/make/lincoln/corsair/2024
+2025,Lincoln,Corsair,,,26,18,11,660,457,279,yes,,,,,https://wiperindex.com/make/lincoln/corsair/2025
+2022,Lincoln,Nautilus,,,24,18,11,610,457,279,yes,,,,,https://wiperindex.com/make/lincoln/nautilus/2022
+2023,Lincoln,Nautilus,,,24,18,11,610,457,279,yes,,,,,https://wiperindex.com/make/lincoln/nautilus/2023
+2023,Lincoln,Navigator,,,22,22,11,559,559,279,yes,J-hook,high,,,https://wiperindex.com/make/lincoln/navigator/2023
+2024,Lincoln,Navigator,,,22,22,11,559,559,279,yes,J-hook,high,,,https://wiperindex.com/make/lincoln/navigator/2024
+2025,Lincoln,Navigator,,,22,22,11,559,559,279,yes,J-hook,high,,,https://wiperindex.com/make/lincoln/navigator/2025
+2022,Mack,Anthem,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/anthem/2022
+2023,Mack,Anthem,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/anthem/2023
+2024,Mack,Anthem,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/anthem/2024
+2022,Mack,Granite,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/granite/2022
+2023,Mack,Granite,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/granite/2023
+2024,Mack,Granite,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/granite/2024
+2023,Mack,LR,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/mack/lr/2023
+2023,Mack,Pinnacle,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/pinnacle/2023
+2024,Mack,Pinnacle,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mack/pinnacle/2024
+2023,Mack,TerraPro,,,28,28,,711,711,,unknown,,,,,https://wiperindex.com/make/mack/terrapro/2023
+2025,Mazda,3,,,26,15,14,660,381,356,yes,,,,,https://wiperindex.com/make/mazda/3/2025
+2025,Mazda,CX-30,,,14,15,14,356,381,356,yes,,,,,https://wiperindex.com/make/mazda/cx-30/2025
+2025,Mazda,CX-5,,,24,18,14,610,457,356,yes,,,,,https://wiperindex.com/make/mazda/cx-5/2025
+2023,Mazda,CX-50,,,26,15,10,660,381,254,yes,J-hook,high,,,https://wiperindex.com/make/mazda/cx-50/2023
+2024,Mazda,CX-50,,,26,15,10,660,381,254,yes,J-hook,high,,,https://wiperindex.com/make/mazda/cx-50/2024
+2025,Mazda,CX-70,,,26,17,12,660,432,305,yes,J-hook,high,,,https://wiperindex.com/make/mazda/cx-70/2025
+2024,Mazda,CX-90,,,26,17,12,660,432,305,yes,J-hook,high,,,https://wiperindex.com/make/mazda/cx-90/2024
+2025,Mazda,CX-90,,,26,17,12,660,432,305,yes,J-hook,high,,,https://wiperindex.com/make/mazda/cx-90/2025
+2022,Mazda,MX-30 EV,,,22,19,14,559,483,356,yes,J-hook,high,,,https://wiperindex.com/make/mazda/mx-30-ev/2022
+2023,Mazda,MX-30 EV,,,22,19,14,559,483,356,yes,J-hook,high,,,https://wiperindex.com/make/mazda/mx-30-ev/2023
+2019,Mercedes-Benz,GLE350,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle350/2019
+2019,Mercedes-Benz,GLE400,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle400/2019
+2019,Mercedes-Benz,GLE43 AMG,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle43-amg/2019
+2019,Mercedes-Benz,GLE450,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle450/2019
+2019,Mercedes-Benz,GLE500,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle500/2019
+2019,Mercedes-Benz,GLE500e,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle500e/2019
+2019,Mercedes-Benz,GLE63 AMG,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle63-amg/2019
+2019,Mercedes-Benz,GLE63 AMG S,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gle63-amg-s/2019
+2019,Mercedes-Benz,GLS450,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gls450/2019
+2019,Mercedes-Benz,GLS500,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/mercedes-benz/gls500/2019
+2009,Mercury,Mariner,,,20,20,12,508,508,305,yes,,,,,https://wiperindex.com/make/mercury/mariner/2009
+2010,Mercury,Mariner,,,20,20,12,508,508,305,yes,,,,,https://wiperindex.com/make/mercury/mariner/2010
+2011,Mercury,Mariner,,,20,20,12,508,508,305,yes,,,,,https://wiperindex.com/make/mercury/mariner/2011
+2007,Mercury,Montego,,,24,20,,610,508,,unknown,Push-button,high,,,https://wiperindex.com/make/mercury/montego/2007
+2007,Mercury,Monterey,,,24,20,16,610,508,406,yes,,,,,https://wiperindex.com/make/mercury/monterey/2007
+2008,Mercury,Mountaineer,,,20,20,13,508,508,330,yes,,,,,https://wiperindex.com/make/mercury/mountaineer/2008
+2009,Mercury,Mountaineer,,,20,20,13,508,508,330,yes,,,,,https://wiperindex.com/make/mercury/mountaineer/2009
+2010,Mercury,Mountaineer,,,20,20,13,508,508,330,yes,,,,,https://wiperindex.com/make/mercury/mountaineer/2010
+2008,Mercury,Sable,,,24,20,11,610,508,279,yes,Push-button,high,,,https://wiperindex.com/make/mercury/sable/2008
+2009,Mercury,Sable,,,24,20,,610,508,,unknown,Push-button,high,,,https://wiperindex.com/make/mercury/sable/2009
+2024,Mitsubishi,Eclipse Cross,,,24,20,12,610,508,305,yes,,,,,https://wiperindex.com/make/mitsubishi/eclipse-cross/2024
+2025,Mitsubishi,Eclipse Cross,,,24,20,12,610,508,305,yes,,,,,https://wiperindex.com/make/mitsubishi/eclipse-cross/2025
+2023,Mitsubishi,Mirage,,,24,16,12,610,406,305,yes,,,,,https://wiperindex.com/make/mitsubishi/mirage/2023
+2024,Mitsubishi,Mirage,,,24,16,12,610,406,305,yes,,,,,https://wiperindex.com/make/mitsubishi/mirage/2024
+2024,Mitsubishi,Outlander,,,26,17,12,660,432,305,yes,,,,,https://wiperindex.com/make/mitsubishi/outlander/2024
+2024,Mitsubishi,Outlander PHEV,,,26,17,12,660,432,305,yes,,,,,https://wiperindex.com/make/mitsubishi/outlander-phev/2024
+2025,Mitsubishi,Outlander PHEV,,,26,17,12,660,432,305,yes,,,,,https://wiperindex.com/make/mitsubishi/outlander-phev/2025
+2024,Mitsubishi,Outlander Sport,,,24,21,10,610,533,254,yes,,,,,https://wiperindex.com/make/mitsubishi/outlander-sport/2024
+2025,Mitsubishi,Outlander Sport,,,24,18,10,610,457,254,yes,,,,,https://wiperindex.com/make/mitsubishi/outlander-sport/2025
+2024,Mitsubishi,RVR,,,24,21,10,610,533,254,yes,,,,,https://wiperindex.com/make/mitsubishi/rvr/2024
+2018,Mitsubishi Fuso,Canter,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter/2018
+2019,Mitsubishi Fuso,Canter,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter/2019
+2018,Mitsubishi Fuso,Canter FE125,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe125/2018
+2019,Mitsubishi Fuso,Canter FE160,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe160/2019
+2020,Mitsubishi Fuso,Canter FE160,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe160/2020
+2021,Mitsubishi Fuso,Canter FE160,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe160/2021
+2018,Mitsubishi Fuso,Canter FE180,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe180/2018
+2020,Mitsubishi Fuso,Canter FE180,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe180/2020
+2021,Mitsubishi Fuso,Canter FE180,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/canter-fe180/2021
+2019,Mitsubishi Fuso,FE,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/mitsubishi-fuso/fe/2019
+2025,Nissan,Ariya,,,26,18,16,660,457,406,yes,,,,,https://wiperindex.com/make/nissan/ariya/2025
+2025,Nissan,Armada,,,24,21,14,610,533,356,yes,,,,,https://wiperindex.com/make/nissan/armada/2025
+2012,Nissan,GT-R,,,22,19,,559,483,,unknown,J-hook,high,,,https://wiperindex.com/make/nissan/gt-r/2012
+2013,Nissan,GT-R,,,22,19,,559,483,,unknown,J-hook,high,,,https://wiperindex.com/make/nissan/gt-r/2013
+2014,Nissan,GT-R,,,22,19,,559,483,,unknown,J-hook,high,,,https://wiperindex.com/make/nissan/gt-r/2014
+2024,Nissan,Leaf,,,26,16,14,660,406,356,yes,J-hook,high,,,https://wiperindex.com/make/nissan/leaf/2024
+2023,Nissan,Pathfinder,,,26,19,10,660,483,254,yes,Push-button,high,,,https://wiperindex.com/make/nissan/pathfinder/2023
+2024,Nissan,Pathfinder,,,26,19,10,660,483,254,yes,Push-button,high,,,https://wiperindex.com/make/nissan/pathfinder/2024
+2025,Nissan,Pathfinder,,,26,19,10,660,483,254,yes,Push-button,high,,,https://wiperindex.com/make/nissan/pathfinder/2025
+2025,Nissan,Rogue,,,26,17,12,660,432,305,yes,,,,,https://wiperindex.com/make/nissan/rogue/2025
+2002,Oldsmobile,Bravada,,,22,22,16,559,559,406,yes,,,,,https://wiperindex.com/make/oldsmobile/bravada/2002
+2003,Oldsmobile,Bravada,,,22,22,16,559,559,406,yes,,,,,https://wiperindex.com/make/oldsmobile/bravada/2003
+2004,Oldsmobile,Bravada,,,22,22,16,559,559,406,yes,,,,,https://wiperindex.com/make/oldsmobile/bravada/2004
+1992,Oldsmobile,Custom Cruiser,,,22,22,16,559,559,406,yes,,,,,https://wiperindex.com/make/oldsmobile/custom-cruiser/1992
+1992,Oldsmobile,Cutlass Ciera,,,18,18,16,457,457,406,yes,,,,,https://wiperindex.com/make/oldsmobile/cutlass-ciera/1992
+1991,Oldsmobile,Cutlass Cruiser,,,18,18,16,457,457,406,yes,,,,,https://wiperindex.com/make/oldsmobile/cutlass-cruiser/1991
+1992,Oldsmobile,Cutlass Cruiser,,,18,18,16,457,457,406,yes,,,,,https://wiperindex.com/make/oldsmobile/cutlass-cruiser/1992
+2002,Oldsmobile,Silhouette,,,24,24,16,610,610,406,yes,,,,,https://wiperindex.com/make/oldsmobile/silhouette/2002
+2003,Oldsmobile,Silhouette,,,24,24,16,610,610,406,yes,,,,,https://wiperindex.com/make/oldsmobile/silhouette/2003
+2004,Oldsmobile,Silhouette,,,24,24,16,610,610,406,yes,,,,,https://wiperindex.com/make/oldsmobile/silhouette/2004
+2024,Peterbilt,220,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/peterbilt/220/2024
+2023,Peterbilt,337,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/peterbilt/337/2023
+2023,Peterbilt,348,,,16,16,,406,406,,unknown,,,,,https://wiperindex.com/make/peterbilt/348/2023
+2023,Peterbilt,365,,,18,18,,457,457,,unknown,,,,,https://wiperindex.com/make/peterbilt/365/2023
+2023,Peterbilt,367,,,16,16,,406,406,,unknown,,,,,https://wiperindex.com/make/peterbilt/367/2023
+2023,Peterbilt,389,,,16,16,,406,406,,unknown,,,,,https://wiperindex.com/make/peterbilt/389/2023
+2024,Peterbilt,389,,,16,16,,406,406,,unknown,,,,,https://wiperindex.com/make/peterbilt/389/2024
+2023,Peterbilt,567,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/peterbilt/567/2023
+2024,Peterbilt,567,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/peterbilt/567/2024
+2024,Peterbilt,579,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/peterbilt/579/2024
+2023,Peugeot,2008,,,26,16,12,660,406,305,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/2008/2023
+2024,Peugeot,2008,,,26,16,12,660,406,305,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/2008/2024
+2023,Peugeot,208,,,26,16,14,660,406,356,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/208/2023
+2024,Peugeot,208,,,26,16,14,660,406,356,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/208/2024
+2024,Peugeot,3008,,,28,16,12,711,406,305,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/3008/2024
+2024,Peugeot,5008,,,28,16,10,711,406,254,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/5008/2024
+2023,Peugeot,Manager,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/manager/2023
+2024,Peugeot,Manager,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/manager/2024
+2023,Peugeot,Rifter,,,24,18,14,610,457,356,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/rifter/2023
+2024,Peugeot,Rifter,,,24,18,14,610,457,356,yes,Push-button,high,,,https://wiperindex.com/make/peugeot/rifter/2024
+1993,Plymouth,Colt,,,22,18,16,559,457,406,yes,,,,,https://wiperindex.com/make/plymouth/colt/1993
+1994,Plymouth,Colt,,,22,18,16,559,457,406,yes,,,,,https://wiperindex.com/make/plymouth/colt/1994
+1998,Plymouth,Grand Voyager,,,28,28,18,711,711,457,yes,,,,,https://wiperindex.com/make/plymouth/grand-voyager/1998
+1999,Plymouth,Grand Voyager,,,28,28,18,711,711,457,yes,,,,,https://wiperindex.com/make/plymouth/grand-voyager/1999
+2000,Plymouth,Grand Voyager,,,28,28,18,711,711,457,yes,,,,,https://wiperindex.com/make/plymouth/grand-voyager/2000
+1992,Plymouth,Laser,,,20,20,17,508,508,432,yes,,,,,https://wiperindex.com/make/plymouth/laser/1992
+1993,Plymouth,Laser,,,20,20,17,508,508,432,yes,,,,,https://wiperindex.com/make/plymouth/laser/1993
+1998,Plymouth,Voyager,,,28,28,18,711,711,457,yes,,,,,https://wiperindex.com/make/plymouth/voyager/1998
+1999,Plymouth,Voyager,,,28,28,18,711,711,457,yes,,,,,https://wiperindex.com/make/plymouth/voyager/1999
+2000,Plymouth,Voyager,,,28,28,18,711,711,457,yes,,,,,https://wiperindex.com/make/plymouth/voyager/2000
+2009,Pontiac,G3,,,22,18,15,559,457,381,yes,,,,,https://wiperindex.com/make/pontiac/g3/2009
+2010,Pontiac,G3,,,22,18,15,559,457,381,yes,,,,,https://wiperindex.com/make/pontiac/g3/2010
+2009,Pontiac,G3 Wave,,,22,18,15,559,457,381,yes,,,,,https://wiperindex.com/make/pontiac/g3-wave/2009
+2008,Pontiac,G6,,,24,21,,610,533,,unknown,Push-button,high,,,https://wiperindex.com/make/pontiac/g6/2008
+2006,Pontiac,Grand Prix,,,22,22,,559,559,,unknown,J-hook,high,,,https://wiperindex.com/make/pontiac/grand-prix/2006
+2007,Pontiac,Grand Prix,,,22,22,,559,559,,unknown,J-hook,high,,,https://wiperindex.com/make/pontiac/grand-prix/2007
+2008,Pontiac,Grand Prix,,,22,22,,559,559,,unknown,J-hook,high,,,https://wiperindex.com/make/pontiac/grand-prix/2008
+2009,Pontiac,Matiz,,,22,14,14,559,356,356,yes,,,,,https://wiperindex.com/make/pontiac/matiz/2009
+2010,Pontiac,Matiz,,,22,14,14,559,356,356,yes,,,,,https://wiperindex.com/make/pontiac/matiz/2010
+2010,Pontiac,Vibe,,,26,17,11,660,432,279,yes,,,,,https://wiperindex.com/make/pontiac/vibe/2010
+2023,Porsche,911,,,21,22,22,533,559,559,yes,Push-button,high,,,https://wiperindex.com/make/porsche/911/2023
+2024,Porsche,911,,,22,22,22,559,559,559,yes,Push-button,high,,,https://wiperindex.com/make/porsche/911/2024
+2025,Porsche,911,,,22,22,22,559,559,559,yes,Push-button,high,,,https://wiperindex.com/make/porsche/911/2025
+2024,Porsche,Cayenne,,,26,22,12,660,559,305,yes,Push-button,high,,,https://wiperindex.com/make/porsche/cayenne/2024
+2024,Porsche,Macan,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/porsche/macan/2024
+2025,Porsche,Macan,,,24,20,15,610,508,381,yes,Push-button,high,,,https://wiperindex.com/make/porsche/macan/2025
+2024,Porsche,Panamera,,,24,21,15,610,533,381,yes,Push-button,high,,,https://wiperindex.com/make/porsche/panamera/2024
+2025,Porsche,Panamera,,,24,21,15,610,533,381,yes,Push-button,high,,,https://wiperindex.com/make/porsche/panamera/2025
+2024,Porsche,Taycan,,,26,20,11,660,508,279,yes,Push-button,high,,,https://wiperindex.com/make/porsche/taycan/2024
+2025,Porsche,Taycan,,,26,20,11,660,508,279,yes,Push-button,high,,,https://wiperindex.com/make/porsche/taycan/2025
+2010,Sterling Truck,360,,,21,20,,533,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/360/2010
+2009,Sterling Truck,A9500,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/a9500/2009
+2010,Sterling Truck,A9500,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/a9500/2010
+2009,Sterling Truck,Acterra,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/acterra/2009
+2010,Sterling Truck,Bullet 45,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/sterling-truck/bullet-45/2010
+2010,Sterling Truck,Bullet 55,,,24,24,,610,610,,unknown,,,,,https://wiperindex.com/make/sterling-truck/bullet-55/2010
+2010,Sterling Truck,L7500,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/l7500/2010
+2009,Sterling Truck,L8500,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/l8500/2009
+2010,Sterling Truck,L8500,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/l8500/2010
+2010,Sterling Truck,L9500,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/sterling-truck/l9500/2010
+2024,Subaru,Ascent,,,26,19,14,660,483,356,yes,,,,,https://wiperindex.com/make/subaru/ascent/2024
+2025,Subaru,Ascent,,,26,19,14,660,483,356,yes,,,,,https://wiperindex.com/make/subaru/ascent/2025
+2024,Subaru,Crosstrek,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/subaru/crosstrek/2024
+2025,Subaru,Crosstrek,,,26,16,14,660,406,356,yes,,,,,https://wiperindex.com/make/subaru/crosstrek/2025
+2024,Subaru,Forester,,,26,17,14,660,432,356,yes,,,,,https://wiperindex.com/make/subaru/forester/2024
+2025,Subaru,Forester,,,26,19,14,660,483,356,yes,,,,,https://wiperindex.com/make/subaru/forester/2025
+2024,Subaru,Impreza,,,26,16,12,660,406,305,yes,,,,,https://wiperindex.com/make/subaru/impreza/2024
+2025,Subaru,Impreza,,,26,16,14,660,406,356,yes,,,,,https://wiperindex.com/make/subaru/impreza/2025
+2023,Subaru,Outback,,,26,18,16,660,457,406,yes,Push-button,high,,,https://wiperindex.com/make/subaru/outback/2023
+2025,Subaru,Outback,,,26,18,16,660,457,406,yes,,,,,https://wiperindex.com/make/subaru/outback/2025
+2023,Suzuki,Baleno,,,21,19,12,533,483,305,yes,,,,,https://wiperindex.com/make/suzuki/baleno/2023
+2021,Suzuki,Ciaz,,,24,16,,610,406,,unknown,J-hook,high,,,https://wiperindex.com/make/suzuki/ciaz/2021
+2022,Suzuki,Ciaz,,,24,16,,610,406,,unknown,J-hook,high,,,https://wiperindex.com/make/suzuki/ciaz/2022
+2023,Suzuki,Ciaz,,,24,16,,610,406,,unknown,J-hook,high,,,https://wiperindex.com/make/suzuki/ciaz/2023
+2019,Suzuki,Ertiga,,,22,16,11,559,406,279,yes,J-hook,high,,,https://wiperindex.com/make/suzuki/ertiga/2019
+2020,Suzuki,Ertiga,,,22,16,11,559,406,279,yes,J-hook,high,,,https://wiperindex.com/make/suzuki/ertiga/2020
+2023,Suzuki,Ertiga,,,21,14,12,533,356,305,yes,,,,,https://wiperindex.com/make/suzuki/ertiga/2023
+2023,Suzuki,Ignis,,,21,19,12,533,483,305,yes,,,,,https://wiperindex.com/make/suzuki/ignis/2023
+2023,Suzuki,Jimny,,,18,16,11,457,406,279,yes,,,,,https://wiperindex.com/make/suzuki/jimny/2023
+2023,Suzuki,Swift,,,20,19,10,508,483,254,yes,,,,,https://wiperindex.com/make/suzuki/swift/2023
+1990,Toyota,4Runner,,,17,17,14,432,432,356,yes,Bayonet,high,,,https://wiperindex.com/make/toyota/4runner/1990
+1991,Toyota,4Runner,,,17,17,14,432,432,356,yes,Bayonet,high,,,https://wiperindex.com/make/toyota/4runner/1991
+1992,Toyota,4Runner,,,17,17,14,432,432,356,yes,Bayonet,high,,,https://wiperindex.com/make/toyota/4runner/1992
+1989,Toyota,Camry,,,20,18,15,508,457,381,yes,Bayonet,high,,,https://wiperindex.com/make/toyota/camry/1989
+1990,Toyota,Camry,,,20,18,15,508,457,381,yes,Bayonet,high,,,https://wiperindex.com/make/toyota/camry/1990
+1991,Toyota,Camry,,,20,18,15,508,457,381,yes,Bayonet,high,,,https://wiperindex.com/make/toyota/camry/1991
+2023,Toyota,GR Corolla,,,28,14,12,711,356,305,yes,J-hook,high,,,https://wiperindex.com/make/toyota/gr-corolla/2023
+2024,Toyota,GR Corolla,,,28,14,12,711,356,305,yes,J-hook,high,,,https://wiperindex.com/make/toyota/gr-corolla/2024
+2025,Toyota,GR Corolla,,,28,14,12,711,356,305,yes,J-hook,high,,,https://wiperindex.com/make/toyota/gr-corolla/2025
+2025,Toyota,Sequoia,,,24,24,10,610,610,254,yes,Push-button,high,,,https://wiperindex.com/make/toyota/sequoia/2025
+2012,UD,2000,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2000/2012
+2013,UD,2000,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2000/2013
+2012,UD,2300DH,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2300dh/2012
+2013,UD,2300DH,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2300dh/2013
+2012,UD,2300LP,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2300lp/2012
+2013,UD,2300LP,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2300lp/2013
+2012,UD,2600,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2600/2012
+2013,UD,2600,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/2600/2013
+2012,UD,3300,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/3300/2012
+2013,UD,3300,,,22,22,,559,559,,unknown,,,,,https://wiperindex.com/make/ud/3300/2013
+2023,Volkswagen,Arteon,,,26,19,11,660,483,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/arteon/2023
+2023,Volkswagen,Atlas,,,26,22,11,660,559,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/atlas/2023
+2025,Volkswagen,Atlas,,,26,22,11,660,559,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/atlas/2025
+2023,Volkswagen,Atlas Cross Sport,,,26,22,11,660,559,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/atlas-cross-sport/2023
+2025,Volkswagen,Atlas Cross Sport,,,26,22,11,660,559,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/atlas-cross-sport/2025
+2023,Volkswagen,Cross Sport,,,26,22,11,660,559,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/cross-sport/2023
+2023,Volkswagen,Taos,,,26,18,11,660,457,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/taos/2023
+2024,Volkswagen,Taos,,,26,18,11,660,457,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/taos/2024
+2025,Volkswagen,Taos,,,26,18,11,660,457,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/taos/2025
+2023,Volkswagen,Teramont,,,26,22,11,660,559,279,yes,Push-button,high,,,https://wiperindex.com/make/volkswagen/teramont/2023
+2017,Volvo,V40,,,26,19,11,660,483,279,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v40/2017
+2018,Volvo,V40,,,26,19,11,660,483,279,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v40/2018
+2019,Volvo,V40,,,26,19,11,660,483,279,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v40/2019
+2018,Volvo,V40 Cross Country,,,26,19,11,660,483,279,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v40-cross-country/2018
+2017,Volvo,V60,,,26,20,12,660,508,305,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v60/2017
+2018,Volvo,V60,,,26,20,12,660,508,305,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v60/2018
+2017,Volvo,V60 Cross Country,,,26,20,12,660,508,305,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v60-cross-country/2017
+2018,Volvo,V60 Cross Country,,,26,20,12,660,508,305,yes,Push-button,high,,,https://wiperindex.com/make/volvo/v60-cross-country/2018
+2024,Volvo,XC60,,,25,19,13,635,483,330,yes,Push-button,high,,,https://wiperindex.com/make/volvo/xc60/2024
+2025,Volvo,XC60,,,25,19,13,635,483,330,yes,Push-button,high,,,https://wiperindex.com/make/volvo/xc60/2025
+2022,Western Star,4700SB,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4700sb/2022
+2023,Western Star,4700SB,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4700sb/2023
+2022,Western Star,4700SF,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4700sf/2022
+2023,Western Star,4700SF,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4700sf/2023
+2022,Western Star,4800SB,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4800sb/2022
+2023,Western Star,4800SB,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4800sb/2023
+2022,Western Star,4900EX,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4900ex/2022
+2023,Western Star,4900EX,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4900ex/2023
+2023,Western Star,4900FA,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4900fa/2023
+2023,Western Star,4900SA,,,20,20,,508,508,,unknown,,,,,https://wiperindex.com/make/western-star/4900sa/2023
